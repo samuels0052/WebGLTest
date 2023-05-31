@@ -1,3 +1,3 @@
-# Hello There!
+# WebGLTest
 
-Just testing...
+Use **WASD** keys to move around!
